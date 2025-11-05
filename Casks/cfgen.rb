@@ -1,6 +1,6 @@
 cask "cfgen" do
-  version "0.1.0"
-  sha256 "f83af1a345de63970c7cd6b5394f1974d098f60b70473ac3e02dae9ce5e0d701"
+  version "1.1.0"
+  sha256 "sha256:7121c1eb74e93efb3ca38ff2f2b234d92d7bf652e63b14f364ca4a7fe833b4a7"
   url "https://github.com/astante-dev/cfgen/releases/download/v#{version}/CFGen.zip"
   name "CFGen"
   homepage "https://github.com/astante-dev/cfgen"
